@@ -40,7 +40,7 @@ export function Footer() {
       </div>
       <div className="footer-bottom">
         <div className="section-shell footer-bottom-inner">
-          <span>© {new Date().getFullYear()} Aline Construction Materials Supply</span>
+          <span>© 2026 Aline Construction Materials Supply</span>
           <span>Build Today, Better Tomorrow.</span>
         </div>
       </div>
